@@ -8,3 +8,7 @@ Create a template named CEBX(1), and set up it like this:
 
 * Don't compress compressed image data again  
 ![Screenshot](/dist/screenshot_20151205091913.png)  
+
+* Put exe and ini file to path of xcassist.exe (C:\Program Files (x86)\Founder\Apabi Maker 5.0\Bin), and modify ini file like this:  
+
+    tpl=CEBX(1)  
