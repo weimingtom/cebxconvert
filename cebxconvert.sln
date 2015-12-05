@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cebxconvert", "cebxconvert\cebxconvert.vcxproj", "{575C3B21-B55F-4C23-B6C1-F6A577B868B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575C3B21-B55F-4C23-B6C1-F6A577B868B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{575C3B21-B55F-4C23-B6C1-F6A577B868B5}.Debug|Win32.Build.0 = Debug|Win32
+		{575C3B21-B55F-4C23-B6C1-F6A577B868B5}.Release|Win32.ActiveCfg = Release|Win32
+		{575C3B21-B55F-4C23-B6C1-F6A577B868B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
